@@ -3,3 +3,5 @@ desktop.ini
 *.csv
 *.pdf
 *.bin
+llm_model/*
+vector_embedding_model_1/*
